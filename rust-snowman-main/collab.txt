@@ -1,0 +1,9 @@
+
+
+References:
+1. https://doc.rust-lang.org/rust-by-example/std_misc/file/open.html
+2. https://docs.rs/rand/latest/rand/
+3. https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.for_each
+4. https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
+5. https://doc.rust-lang.org/std/primitive.char.html
+6. https://doc.rust-lang.org/rust-by-example/fn/closures.html
